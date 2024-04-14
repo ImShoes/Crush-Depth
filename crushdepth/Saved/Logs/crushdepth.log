@@ -1942,3 +1942,67 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.14-01.04.09:834][704]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3f234783-ccad-4931-bcbe-f190a80f2b35}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=464.09
 [2024.04.14-01.04.09:835][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2024.04.14-01.04.09:837][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.14-01.08.06:090][210]LogSlate: Window 'EnemyAI_Attack_PaperFlipbook' being destroyed
+[2024.04.14-01.08.06:096][210]LogSlate: Window 'EnemyAI_Attack_PaperFlipbook' being destroyed
+[2024.04.14-01.08.06:116][210]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-01.08.06:116][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-01.08.06:233][210]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-01.08.06:233][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-01.08.07:550][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.04.14-01.08.07:583][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.14-01.08.08:695][285]LogSlate: Window 'Save Content' being destroyed
+[2024.04.14-01.08.08:704][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-01.08.08:816][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy_Melee_2D" FILE="../../../../../../Users/kesan/Downloads/Crush-Depth/crushdepth/Content/Enemies/BP_Enemy_Melee_2D.uasset" SILENT=true
+[2024.04.14-01.08.08:840][285]LogSavePackage: Moving output files for package: /Game/Enemies/BP_Enemy_Melee_2D
+[2024.04.14-01.08.08:842][285]LogSavePackage: Moving '../../../../../../Users/kesan/Downloads/Crush-Depth/crushdepth/Saved/BP_Enemy_Melee_2D9C2D352B44F51DB40AC5C6A273A11033.tmp' to '../../../../../../Users/kesan/Downloads/Crush-Depth/crushdepth/Content/Enemies/BP_Enemy_Melee_2D.uasset'
+[2024.04.14-01.08.08:850][285]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/5A/22CHMSLPWJ4LT89VI3VU5Z
+[2024.04.14-01.08.08:851][285]LogSavePackage: Moving '../../../../../../Users/kesan/Downloads/Crush-Depth/crushdepth/Saved/22CHMSLPWJ4LT89VI3VU5Z4F2D0D304A046C8AEA4B9EBDD725F57B.tmp' to '../../../../../../Users/kesan/Downloads/Crush-Depth/crushdepth/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/5A/22CHMSLPWJ4LT89VI3VU5Z.uasset'
+[2024.04.14-01.08.08:856][285]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Art/EnemyAI_Attack_PaperFlipbook
+[2024.04.14-01.08.08:858][285]LogSavePackage: Moving '../../../../../../Users/kesan/Downloads/Crush-Depth/crushdepth/Saved/EnemyAI_Attack_PaperFlipbookB14A05DB4BE39E8BB346979C55C7DF41.tmp' to '../../../../../../Users/kesan/Downloads/Crush-Depth/crushdepth/Content/Enemies/AI/Art/EnemyAI_Attack_PaperFlipbook.uasset'
+[2024.04.14-01.08.08:890][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 314 ms)
+[2024.04.14-01.08.08:899][285]LogStall: Shutdown...
+[2024.04.14-01.08.08:904][285]LogStall: Shutdown complete.
+[2024.04.14-01.08.08:960][285]LogSlate: Window 'crushdepth - Unreal Editor' being destroyed
+[2024.04.14-01.08.09:096][285]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-01.08.09:097][285]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Enemies/AI/Art/EnemyAI_Attack_PaperFlipbook.EnemyAI_Attack_PaperFlipbook
+[2024.04.14-01.08.09:097][285]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/BP_Enemy_Melee_2D.BP_Enemy_Melee_2D
+[2024.04.14-01.08.09:097][285]LogContentValidation: Display: Validating /Game/Enemies/BP_Enemy_Melee_2D.BP_Enemy_Melee_2D_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_Melee_2D_C_UAID_489EBD29AB2F50E801_1496846231
+[2024.04.14-01.08.09:100][286]Cmd: QUIT_EDITOR
+[2024.04.14-01.08.09:100][286]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.04.14-01.08.09:107][286]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.04.14-01.08.09:107][286]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.04.14-01.08.09:108][286]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.04.14-01.08.09:114][286]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-01.08.09:114][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-01.08.09:114][286]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.14-01.08.09:119][286]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.04.14-01.08.09:122][286]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.04.14-01.08.10:340][286]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.04.14-01.08.10:340][286]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.04.14-01.08.10:340][286]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.04.14-01.08.10:340][286]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.04.14-01.08.10:350][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.14-01.08.10:352][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.14-01.08.10:374][286]LogAudio: Display: Audio Device Manager Shutdown
+[2024.04.14-01.08.10:383][286]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.04.14-01.08.10:383][286]LogExit: Preparing to exit.
+[2024.04.14-01.08.10:437][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.04.14-01.08.10:444][286]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:444][286]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:447][286]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.14-01.08.10:448][286]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
